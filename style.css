@@ -1,0 +1,387 @@
+*{
+	margin: 0;
+	padding: 0;
+	background-color:#edeef0;
+}
+
+TABLE{
+	margin-left: 8px;
+	border: 0px;
+	border-spacing: 0px 0px
+}
+
+TD, TH {
+    background-color: white; 
+    padding: 0px; 
+	border: 0px;
+	width: 70px;
+	height: 83px;
+	text-align: center;
+}
+
+.myTable1{
+	margin-left: 12px;
+	border: 0px;
+	border-spacing: 0px 0px
+}
+
+.myTable2{
+	margin-left: 95px;
+	border: 0px;
+	border-spacing: 0px 0px
+}
+
+.myth1{
+    background-color: white; 
+    padding: 0px; 
+	border: 0px;
+	width: 560px;
+	height: 24px;
+	text-align: left;
+}
+
+.myth2{
+    background-color: white; 
+    padding: 0px; 
+	border: 0px;
+	width: 100px;
+	height: 69px;
+	text-align: center;
+	font-size: 15px;
+	color: gray;
+}
+
+#toph{
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	width: 100%;
+	height: 41px;
+	background-color:#4b77a8;
+}
+
+#tophin{
+	background-color:#4b77a8;
+	position: relative;
+	width: 990px;
+	top: -2px;
+	height: 41px;
+	margin: auto;
+}
+
+#centralblock{
+	position: relative;
+	width: 990px;
+	top: 42px;
+	margin: auto;
+}
+
+#b1{
+	border: 3px #e4e5e9 solid;
+	border-radius: 5px 5px 5px 5px;
+	position: absolute;
+	width: 230px;
+	height: 272px;
+	background-color: white;
+	margin-left: 15%;
+	margin-top: 12px;
+}
+
+#b2{
+	border: 3px #e4e5e9 solid;
+	border-radius: 5px 5px 5px 5px;
+	position: absolute;
+	width: 230px;
+	height: 121px;	
+	background-color: white;
+	margin-left: 15%;
+	margin-top: 300px;
+}
+
+#b2-t{
+	width: 200px;
+	height: 30px;
+	margin-left: 15px;
+	background-color: white;	
+}
+
+#b3{
+	border: 3px #e4e5e9 solid;
+	border-radius: 5px 5px 5px 5px;
+	position: absolute;
+	width: 230px;
+	height: 212px;	
+	background-color: white;
+	margin-left: 15%;
+	margin-top: 437px;
+}
+#b4{
+	position: relative;
+	border: 3px #e4e5e9 solid;
+	border-radius: 5px 5px 5px 5px;
+	position: absolute;
+	width: 230px;
+	height: 212px;	
+	background-color: white;
+	margin-left: 15%;
+	margin-top: 650px;
+}
+
+#b5{
+	border: 3px #e4e5e9 solid;
+	border-radius: 5px 5px 5px 5px;
+	position: absolute;
+	width: 590px;
+	height: 186px;	
+	background-color: white;
+	right: 0%;
+	margin-top: 12px;
+	
+}
+
+#b5-1{
+	width: 560px;
+	height: 60px;
+	margin-top: 12px;
+	background-color: white;
+	border-bottom: 3px #e4e5e9 solid;	
+	margin-left: 15px;
+}
+
+#b5-2{
+	position: absolute;
+	width: 50px;
+	height: 15px;
+	margin-top: -60px;
+	background-color: white;	
+	margin-left: 540px;;
+}
+
+.b5-31{
+	position: absolute;
+	width: 560px;
+	height: 34px;
+	background-color: wgite;
+	border-radius: 5px 5px 5px 5px;	
+	margin-left: 12px;
+	margin-top: 16px;
+	color: gray;
+	text-align: center;
+}
+
+.b5-31 p {
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%) }
+
+.b5-32{
+	position: absolute;
+	width: 560px;
+	height: 34px;
+	background-color: #d8dade;
+	border-radius: 5px 5px 5px 5px;	
+	margin-left: 12px;
+	margin-top: 16px;
+	text-align: center;
+	color: black;
+}
+
+.b5-32 p {
+	background-color: #d8dade;
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%) }
+
+#b6{
+	border: 3px #e4e5e9 solid;
+	border-radius: 5px 5px 5px 5px;
+	position: absolute;
+	width: 590px;
+	height: 70px;	
+	background-color: white;
+	right: 0%;
+	margin-top: 198px;
+}
+
+#b7{
+	border: 3px #e4e5e9 solid;
+	border-radius: 5px 5px 5px 5px;
+	position: absolute;
+	width: 590px;
+	height: 72px;	
+	background-color: white;
+	right: 0%;
+	margin-top: 284px;
+	text-align: center;
+	color: #98b3c8;
+	fill: #98b3c8;
+}
+
+#b8{
+	border: 3px #e4e5e9 solid;
+	border-radius: 5px 5px 5px 5px;
+	position: absolute;
+	width: 590px;
+	height: 883px;	
+	background-color: white;
+	right: 0%;
+	margin-top: 372px;
+	text-align: center;
+	color: #98b3c8;
+}
+
+.fblock{
+	width: 70px;
+	height: 83px;
+	margin-left: 5px;
+	border-color: white;
+	background-color: white;
+	text-align: center;
+}
+
+.roundPng{
+	border-radius: 25px;
+}
+
+.grayB{
+	color: #98b3c8;
+	background-color: white;
+}
+
+.grayY{
+	color: blue;
+	background-color: white;
+	font-size: 20px;
+}
+
+.bb1{
+	border-radius: 5px 5px 5px 5px;
+	border: none;
+	width: 200px;
+	height: 30px;
+	background-color:#d8dade;
+	margin-left: 15px;
+	outline: none;
+}
+
+.bb12{
+	border-radius: 5px 5px 5px 5px;
+	border: none;
+	width: 200px;
+	height: 30px;
+	background-color:#a7abb3;
+	margin-left: 15px;
+	outline: none;
+}
+
+.iconTop{
+	top: 4px;
+	left: 39%;
+	position: absolute;		
+}
+
+#rightMenu{
+	border: 0;
+	position: absolute;
+	width: 149px;
+	height: 150px;	
+	left: 0%;
+	margin-top: 12px;
+}
+
+#rightMenuTable{
+	width: 149px;
+	height: 150px;	
+	margin-left: 0px;
+	border: 0px;
+	border-spacing: 0px 0px
+}
+
+.rightMenuTr1{
+	background-color:#edeef0; 
+    padding: 0px; 
+	border: 5px;
+	width: 149px;
+	height: 30px;
+	text-align: left;
+	font-size: 16px;
+	color: #98b3c8;
+	fill: #98b3c8;
+}
+
+.rightMenuTr2{
+	background-color:#d8dde7; 
+    padding: 0px; 
+	border: 5px;
+	width: 149px;
+	height: 30px;
+	text-align: left;
+	font-size: 16px;
+	color: #7697b0;
+	fill: #7697b0;
+}
+
+.topinput{
+	position: absolute;
+	border-radius: 50px 50px 50px 50px;
+	border-style: none;
+	background-color:#224b79;
+	margin-left: 15%;
+	width: 230px;
+	height: 28px;
+	margin-top: 7px;
+	
+}
+
+.topinputf{
+	position: absolute;
+	border-radius: 50px 50px 50px 50px;
+	border-style: none;
+	background-color: white;
+	margin-left: 15%;
+	width: 230px;
+	height: 28px;
+	margin-top: 7px;
+}
+
+.topI{
+	margin-top: 0px;
+	 top:0;
+	right:0;
+	position: absolute;		
+}
+
+.topvk{
+	margin-top: 0px;
+	margin-left: 0%;
+	position: absolute;
+	width: 165px;
+	height: 43px;	
+}
+
+.icon {
+  fill: #98b3c8;
+}
+
+a { 
+    text-decoration: none; /* Отменяем подчеркивание у ссылки */
+	background: white;
+}
+   
+a:hover {
+    text-decoration: underline; /* Делает ссылку подчеркнутой при наведении на нее курсора */
+    color: blue; /* Цвет ссылки */
+}
+
+.user-icon {
+	display: inline-block;
+	background-color: white;
+	margin-top: 15px;
+	margin-right: 3px;
+}
